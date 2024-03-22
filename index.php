@@ -39,9 +39,9 @@
                     <i class="far fa-file-code"></i>&nbsp;Developed by:
                 </div>
                 <ul>
-                    <li>Sachin Sahil</li>    
-                    <li>Shubham Katte </li>
-                    <li>Vaibhav Saini</li>
+                    <li>Bhuvanesh</li>    
+                    <li>Shreyash </li>
+                    <li>Prathmesh</li>
                 </ul>
             </div>
             <div class="btn-grp">
